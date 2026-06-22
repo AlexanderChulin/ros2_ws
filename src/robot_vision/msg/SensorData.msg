@@ -1,0 +1,10 @@
+int32 color1
+int32 color2
+int32 color3
+float32 dist_izq
+float32 dist_der
+float32 dist_front
+float32 dist_back
+int32 enc1
+int32 enc2
+int32 enc3
